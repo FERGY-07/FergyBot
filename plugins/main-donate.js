@@ -4,12 +4,8 @@ let handler = async(m, { conn, usedPrefix, command }) => {
     let don = `
 ≡ ${mssg.donate}
 
-▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
-
-▢ *Mercado Pago Arg*
-• *Alias :* fg98ff
-• *N° :* 1168352204
+▢ *Instagram*
+• *Link :* https://www.instagram.com/ceogeripium.dzn
 `
 let img = 'https://i.ibb.co/37FP2bk/donate.jpg'
 conn.sendFile(m.chat, img, 'img.jpg', don, m, null, rpyp)
