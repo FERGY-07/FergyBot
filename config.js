@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['51955095498', 'Richetti', true],
-  ['51933348947', 'Richetti2', true],
-  ['56945086055', '@ceogeripium.dzn', true],
-  ['56945086055']
+  ['51924335279', 'paolo', true],
+  ['51929457802', 'paolo', true],
+  ['51924335279', '@ceo.dzn', true],
+  ['51932073137']
 ] //Numeros de owner 
 
-global.mods = ['56945086055'] 
-global.prems = ['56945086055', '56945086055']
+global.mods = ['51932073137'] 
+global.prems = ['51932073137', '51932073137']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -22,22 +22,22 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'MichiBot' 
-global.author = 'MichiBot' 
+global.packname = 'FergyBot' 
+global.author = 'FergyBot' 
 
 //--info FG
-global.botName = 'MichiBot'
-global.fgig = 'https://www.instagram.com/ceogeripium.dzn' 
-global.fgsc = 'https://www.instagram.com/ceogeripium.dzn' 
-global.fgyt = 'https://www.instagram.com/ceogeripium.dzn'
-global.fgpyp = 'https://www.instagram.com/ceogeripium.dzn'
-global.fglog = 'https://www.instagram.com/ceogeripium.dzn' 
+global.botName = 'FergyBot'
+global.fgig = 'https://www.instagram.com/paolo.ff_07' 
+global.fgsc = 'https://www.instagram.com/paolo.ff_07' 
+global.fgyt = 'https://www.instagram.com/paolo.ff_07'
+global.fgpyp = 'https://www.instagram.com/paolo.ff_07'
+global.fglog = 'https://www.instagram.com/paolo.ff_07' 
 
 //--- Grupos WA
-global.fgcanal = 'https://www.instagram.com/ceogeripium.dzn'
-global.bgp = 'https://www.instagram.com/ceogeripium.dzn'
-global.bgp2 = 'https://www.instagram.com/ceogeripium.dzn'
-global.bgp3 = 'https://www.instagram.com/ceogeripium.dzn' //--GP NSFW
+global.fgcanal = 'https://www.instagram.com/paolo.ff_07'
+global.bgp = 'https://www.instagram.com/paolo.ff_07'
+global.bgp2 = 'https://www.instagram.com/paolo.ff_07'
+global.bgp3 = 'https://www.instagram.com/paolo.ff_07' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
